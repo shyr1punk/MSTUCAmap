@@ -2,6 +2,19 @@ root {
     display: block;
 }
 
+html {
+    font-family: verdana;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+#head {
+    text-align: center;
+}
+
 #map {
     width: 1200px;
     height: 800px;

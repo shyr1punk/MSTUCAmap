@@ -4,7 +4,7 @@ var map, collection, knew, k1, k2, k3, k4, k5, metro, footnew, foot1, foot5, bus
 ymaps.ready(function () {
     'use strict';
     map = new ymaps.Map("map", {
-        center: [55.8417230206725, 37.49619652537596],
+        center: [55.843111468111914, 37.494887607375254],
         zoom: 16,
         behaviors: ['default', 'scrollZoom']
     });
