@@ -1,0 +1,8 @@
+root { 
+    display: block;
+}
+
+#map {
+    width: 1200px;
+    height: 800px;
+}
